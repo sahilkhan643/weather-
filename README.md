@@ -48,7 +48,3 @@
 ## ⭐ Support
 If you like this project, please consider giving it a ⭐ on [GitHub](https://github.com/sahilkhan643/weather_website)!
 
----
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
