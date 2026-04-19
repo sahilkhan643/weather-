@@ -4,10 +4,8 @@
 
 ---
 
-## 🚀 Live Demo
-Check out the live application here: [Live Demo](https://weatherstate.vercel.app/)
-
 ---
+
 
 ## ✨ Features
 
@@ -44,7 +42,6 @@ Check out the live application here: [Live Demo](https://weatherstate.vercel.app
 
 **Sahil Khan**
 - GitHub: [@sahilkhan643](https://github.com/sahilkhan643)
-- Portfolio: [Sahil Khan](https://github.com/sahilkhan643)
 
 ---
 
