@@ -46,5 +46,5 @@
 ---
 
 ## ⭐ Support
-If you like this project, please consider giving it a ⭐ on [GitHub](https://github.com/sahilkhan643/weather_website)!
+If you like this project, please consider giving it a ⭐ on [GitHub](https://github.com/sahilkhan643/weather-)!
 
